@@ -1,6 +1,7 @@
 <h1> sy46 </h1>
 <ul>
  <li> Inha University, Computer science & Engineering
+ <li> AI_Certification (basic) <img src="
 </ul>
 <hr>
 <h3> Connect </h3>
