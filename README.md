@@ -1,6 +1,5 @@
 # sy46
-Inha.Univ
-Computer science & Engineering
+## Inha University. Computer science & Engineering
 
 
 ### Connect
@@ -11,7 +10,7 @@ Computer science & Engineering
  
 
 ### Most Lan
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy460129&layout=compact&theme=black)
+[![sy460129's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy460129)](https://github.com/sy460129/github-readme-stats)
 
 
 ### Tool
