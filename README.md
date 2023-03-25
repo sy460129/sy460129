@@ -4,7 +4,10 @@
 
 ### Connect
 
-<a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=falt&logo=Tistory&logoColor=white"/></a>
+블로그 : <a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=falt&logo=Tistory&logoColor=white"/></a>
+<br>
+인스타 : <a href="https://www.instagram.com/vvstudy46" target="_blank"><img src="https://img.shields.io/badge/vvsy46-E4405F?style=falt&logo=Instagram&logoColor=white"/></a>
+ 
 
 
 ### Language
