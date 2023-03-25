@@ -10,7 +10,7 @@
  
 
 ### Most Lan
-[![sy460129's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy460129)](https://github.com/sy460129/github-readme-stats)
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy460129&layout=compact&bg_color=000000,000000,000000&title_color=fff&text_color=FFFFFF">
 
 
 ### Tool
