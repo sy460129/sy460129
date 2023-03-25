@@ -4,7 +4,7 @@
 
 ### Connect
 
-<a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=falt&logo=Tistory&logoColor=white"/></a>
+<a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=falt&logo=Blog&logoColor=white"/></a>
 
 
 ### Language
