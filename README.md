@@ -10,8 +10,13 @@
 
 <b>Blog <br> <a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a> <br> <br>
 <b>Insta (study) <br> <a href="https://www.instagram.com/vvstudy46" target="_blank"><img src="https://img.shields.io/badge/vvstudy46-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
 <hr>
+ 
+<h3> Most Lan </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy460129&langs_count=10&layout=compact&theme=dark)
+<hr>
+ 
 <h3> Studying Skills </h3>
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
