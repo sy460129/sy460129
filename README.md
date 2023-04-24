@@ -1,9 +1,6 @@
 <h1> sy46 </h1>
 <ul>
  <li> Inha University, Computer science & Engineering
- <li> <a href="https://army.goorm.io/cert/ccnSvqviAk" target="_blank">
-  <img src="https://github.com/sy460129/sy460129/blob/main/AI_Certification/Certification_QR.png?raw=true" width="100" height="100"/></a><br>
-  <figcaption> AI_Certification (basic) </figcaption>
 </ul>
 <hr>
 <h3> Connect </h3>
