@@ -11,11 +11,6 @@
  <br>
 <hr>
  
-<h3> Most Lan </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy460129&langs_count=10&layout=compact&theme=dark)
-<hr>
- 
 <h3> Studying Skills </h3>
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
