@@ -3,13 +3,6 @@
  <li> Inha University, Computer science & Engineering
 </ul>
 <hr>
-<h3> Connect </h3>
-
-<b>Velog <br> <a href="https://velog.io/@sy460129" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<br>
-<b>Blog <br> <a href="https://tmddus0129.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
- <br>
-<hr>
  
 <h3> Studying Skills </h3>
 
