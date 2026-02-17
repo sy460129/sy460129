@@ -1,16 +1,19 @@
 ## Hi there 👋
+> 박승연 (Park Seungyeon)  
+> Linkedin: https://www.linkedin.com/in/seungyeon-park
+> 
+<br>  
 
-<!--
-**sy460129/sy460129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Published CVE
+- CVE-2025-51005 (CVSS: 7.5 / CWE-122)  
+- CVE-2025-51006 (CVSS: 7.8 / CWE-415)  
+<br>
 
-Here are some ideas to get you started:
+## Education
+- (2020.03 ~ ) Inha Univ. Computer Science & Engineering  
+- (2024.03 ~ 2024.09) WHS 2nd    
+- (2025.07 ~ 2026.02) BoB 14th Vulnerability Analysis Track Trainee  
+<br>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Awards
+- Team BoB::Takedown | Pwn2own Automotive 2026 Winner (Charx-SEC-31XX, Grizzl-e)
