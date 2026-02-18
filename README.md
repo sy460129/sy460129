@@ -6,7 +6,8 @@
 
 ## Published CVE
 - CVE-2025-51005 (CVSS: 7.5 / CWE-122)  
-- CVE-2025-51006 (CVSS: 7.8 / CWE-415)  
+- CVE-2025-51006 (CVSS: 7.8 / CWE-415)
+- CVE-2026-26997 (Pending)  
 <br>
 
 ## Education
